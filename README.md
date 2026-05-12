@@ -3,7 +3,6 @@
 A simple C++ utility for converting numbers between different numeral systems:
 
 - Decimal ↔ Binary
-- Decimal ↔ Hexadecimal
 - Binary ↔ Hexadecimal
 - Hexadecimal ↔ Decimal
 
